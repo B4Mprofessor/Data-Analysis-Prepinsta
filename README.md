@@ -8,7 +8,6 @@ Welcome to the Bike Buyers Dataset Analysis project! This project involves explo
 ## Project Overview
 
 - **Internship Program:** Data Analyst Internship at Prepinsta
-- **Intern:** [Your Full Name]
 - **Mentor:** Rushikesh Panusare
 
 ## Dataset Details
